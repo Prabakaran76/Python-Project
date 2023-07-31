@@ -4,7 +4,7 @@ num2 = int(input("Enter the number2: "))
 sig = input("Enter the sign i.e +, -, *, /, //, % : ")
 print("Enter X or x for Exit.")"""
 
-while(1):
+while(True):
     num1 = input("Enter the number1: ")
     if (num1 == "X" or num1 == "x"):
         break
